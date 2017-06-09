@@ -2973,37 +2973,37 @@ Price,Price,module,Magento_Msrp
 "Review Order - %1","Review Order - %1",module,Magento_Multishipping
 Total,Total,module,Magento_Multishipping
 "Total for this address","Total for this address",module,Magento_Multishipping
-"Shipping Methods","Shipping Methods",module,Magento_Multishipping
+"Shipping Methods","Delivery Methods",module,Magento_Multishipping
 "Edit Address","Edit Address",module,Magento_Multishipping
 "Edit Billing Address","Edit Billing Address",module,Magento_Multishipping
-"Edit Shipping Address","Edit Shipping Address",module,Magento_Multishipping
+"Edit Shipping Address","Edit Delivery Address",module,Magento_Multishipping
 "Create Billing Address","Create Billing Address",module,Magento_Multishipping
-"Create Shipping Address","Create Shipping Address",module,Magento_Multishipping
+"Create Shipping Address","Create Delivery Address",module,Magento_Multishipping
 "Data saving problem","Data saving problem",module,Magento_Multishipping
 "We cannot open the overview page.","We cannot open the overview page.",module,Magento_Multishipping
 "Please agree to all Terms and Conditions before placing the order.","Please agree to all Terms and Conditions before placing the order.",module,Magento_Multishipping
 "Order place error","Order place error",module,Magento_Multishipping
-"Maximum qty allowed for Shipping to multiple addresses is %1","Maximum qty allowed for Shipping to multiple addresses is %1",module,Magento_Multishipping
-"Please check shipping address information.","Please check shipping address information.",module,Magento_Multishipping
+"Maximum qty allowed for Shipping to multiple addresses is %1","Maximum qty allowed for Delivery to multiple addresses is %1",module,Magento_Multishipping
+"Please check shipping address information.","Please check delivery address information.",module,Magento_Multishipping
 "Please check billing address information.","Please check billing address information.",module,Magento_Multishipping
-"Please select shipping methods for all addresses.","Please select shipping methods for all addresses.",module,Magento_Multishipping
+"Please select shipping methods for all addresses.","Please select delivery methods for all addresses.",module,Magento_Multishipping
 "A payment method is not defined.","A payment method is not defined.",module,Magento_Multishipping
 "The requested payment method is not available for multishipping.","The requested payment method is not available for multishipping.",module,Magento_Multishipping
 "Item not found or already ordered","Item not found or already ordered",module,Magento_Multishipping
 "Please specify a payment method.","Please specify a payment method.",module,Magento_Multishipping
-"Please check shipping addresses information.","Please check shipping addresses information.",module,Magento_Multishipping
-"Please specify shipping methods for all addresses.","Please specify shipping methods for all addresses.",module,Magento_Multishipping
+"Please check shipping addresses information.","Please check delivery addresses information.",module,Magento_Multishipping
+"Please specify shipping methods for all addresses.","Please specify delivery methods for all addresses.",module,Magento_Multishipping
 "Select Addresses","Select Addresses",module,Magento_Multishipping
-"Shipping Information","Shipping Information",module,Magento_Multishipping
+"Shipping Information","Delivery Information",module,Magento_Multishipping
 "Billing Information","Billing Information",module,Magento_Multishipping
 "Place Order","Place Order",module,Magento_Multishipping
 "Order Success","Order Success",module,Magento_Multishipping
 "Default Billing","Default Billing",module,Magento_Multishipping
-"Default Shipping","Default Shipping",module,Magento_Multishipping
+"Default Shipping","Default Delivery",module,Magento_Multishipping
 "Select Address","Select Address",module,Magento_Multishipping
 "Add New Address","Add New Address",module,Magento_Multishipping
 "Back to Billing Information","Back to Billing Information",module,Magento_Multishipping
-"Please select a shipping address for applicable items.","Please select a shipping address for applicable items.",module,Magento_Multishipping
+"Please select a shipping address for applicable items.","Please select a delivery address for applicable items.",module,Magento_Multishipping
 Product,Product,module,Magento_Multishipping
 Qty,Qty,module,Magento_Multishipping
 "Send To","Send To",module,Magento_Multishipping
@@ -3011,7 +3011,7 @@ Qty,Qty,module,Magento_Multishipping
 Actions,Actions,module,Magento_Multishipping
 "Remove Item","Remove Item",module,Magento_Multishipping
 "Remove item","Remove item",module,Magento_Multishipping
-"Go to Shipping Information","Go to Shipping Information",module,Magento_Multishipping
+"Go to Shipping Information","Go to Delivery Information",module,Magento_Multishipping
 "Update Qty &amp; Addresses","Update Qty &amp; Addresses",module,Magento_Multishipping
 "Enter a New Address","Enter a New Address",module,Magento_Multishipping
 "Back to Shopping Cart","Back to Shopping Cart",module,Magento_Multishipping
@@ -3019,15 +3019,15 @@ Actions,Actions,module,Magento_Multishipping
 Change,Change,module,Magento_Multishipping
 "Payment Method","Payment Method",module,Magento_Multishipping
 "Go to Review Your Order","Go to Review Your Order",module,Magento_Multishipping
-"Back to Shipping Information","Back to Shipping Information",module,Magento_Multishipping
+"Back to Shipping Information","Back to Delivery Information",module,Magento_Multishipping
 "Other items in your order","Other items in your order",module,Magento_Multishipping
 "Edit Items","Edit Items",module,Magento_Multishipping
-"Shipping is not applicable.","Shipping is not applicable.",module,Magento_Multishipping
+"Shipping is not applicable.","Delivery is not applicable.",module,Magento_Multishipping
 "Product Name","Product Name",module,Magento_Multishipping
 "Check Out with Multiple Addresses","Check Out with Multiple Addresses",module,Magento_Multishipping
 "Address %1 <span>of %2</span>","Address %1 <span>of %2</span>",module,Magento_Multishipping
-"Shipping To","Shipping To",module,Magento_Multishipping
-"Shipping Method","Shipping Method",module,Magento_Multishipping
+"Shipping To","Delivery To",module,Magento_Multishipping
+"Shipping Method","Delivery Method",module,Magento_Multishipping
 "Incl. Tax","Incl. Tax",module,Magento_Multishipping
 "Excl. Tax","Excl. Tax",module,Magento_Multishipping
 "Order Review","Order Review",module,Magento_Multishipping
@@ -3162,8 +3162,8 @@ Subscribe,Subscribe,module,Magento_Newsletter
 "Send Check to","Send Check to",module,Magento_OfflinePayments
 Country,Country,module,Magento_OfflineShipping
 Region/State,Region/State,module,Magento_OfflineShipping
-"Zip/Postal Code","Zip/Postal Code",module,Magento_OfflineShipping
-"Shipping Price","Shipping Price",module,Magento_OfflineShipping
+"Zip/Postal Code","Postcode",module,Magento_OfflineShipping
+"Shipping Price","Delivery Price",module,Magento_OfflineShipping
 "Export CSV","Export CSV",module,Magento_OfflineShipping
 "Store Pickup","Store Pickup",module,Magento_OfflineShipping
 "Weight vs. Destination","Weight vs. Destination",module,Magento_OfflineShipping
@@ -3184,9 +3184,9 @@ None,None,module,Magento_OfflineShipping
 "Please correct Country ""%1"" in the Row #%2.","Please correct Country ""%1"" in the Row #%2.",module,Magento_OfflineShipping
 "Please correct Region/State ""%1"" in the Row #%2.","Please correct Region/State ""%1"" in the Row #%2.",module,Magento_OfflineShipping
 "Please correct %1 ""%2"" in the Row #%3.","Please correct %1 ""%2"" in the Row #%3.",module,Magento_OfflineShipping
-"Please correct Shipping Price ""%1"" in the Row #%2.","Please correct Shipping Price ""%1"" in the Row #%2.",module,Magento_OfflineShipping
+"Please correct Shipping Price ""%1"" in the Row #%2.","Please correct Delivery Price ""%1"" in the Row #%2.",module,Magento_OfflineShipping
 "Duplicate Row #%1 (Country ""%2"", Region/State ""%3"", Zip ""%4"" and Value ""%5"")","Duplicate Row #%1 (Country ""%2"", Region/State ""%3"", Zip ""%4"" and Value ""%5"")",module,Magento_OfflineShipping
-"Free Shipping","Free Shipping",module,Magento_OfflineShipping
+"Free Shipping","Free Delivery",module,Magento_OfflineShipping
 No,No,module,Magento_OfflineShipping
 "For matching items only","For matching items only",module,Magento_OfflineShipping
 "For shipment with matching items","For shipment with matching items",module,Magento_OfflineShipping
@@ -3208,7 +3208,7 @@ N/A,N/A,module,Magento_Payment
 "Wrong gateway response format.","Wrong gateway response format.",module,Magento_Payment
 "Validator for field %1 does not exist.","Validator for field %1 does not exist.",module,Magento_Payment
 Discount,Discount,module,Magento_Payment
-Shipping,Shipping,module,Magento_Payment
+Shipping,Delivery,module,Magento_Payment
 "All Allowed Countries","All Allowed Countries",module,Magento_Payment
 "Specific Countries","Specific Countries",module,Magento_Payment
 "The payment method you requested is not available.","The payment method you requested is not available.",module,Magento_Payment
@@ -3284,7 +3284,7 @@ Close,Close,module,Magento_Paypal
 "You will be redirected to the PayPal website when you place an order.","You will be redirected to the PayPal website when you place an order.",module,Magento_Paypal
 "Incl. Tax","Incl. Tax",module,Magento_Paypal
 "Billing Information","Billing Information",module,Magento_Paypal
-"Shipping Information","Shipping Information",module,Magento_Paypal
+"Shipping Information","Delivery Information",module,Magento_Paypal
 "Would you like to sign a billing agreement to streamline further purchases with PayPal?","Would you like to sign a billing agreement to streamline further purchases with PayPal?",module,Magento_Paypal
 "Invalid block type","Invalid block type",module,Magento_Paypal
 "Please specify the correct billing agreement ID and try again.","Please specify the correct billing agreement ID and try again.",module,Magento_Paypal
@@ -3313,7 +3313,7 @@ Sales,Sales,module,Magento_Paypal
 "We can't place the order.","We can't place the order.",module,Magento_Paypal
 "We can't process Express Checkout approval.","We can't process Express Checkout approval.",module,Magento_Paypal
 "We can't initialize Express Checkout review.","We can't initialize Express Checkout review.",module,Magento_Paypal
-"We can't update shipping method.","We can't update shipping method.",module,Magento_Paypal
+"We can't update shipping method.","We can't update delivery method.",module,Magento_Paypal
 "To check out, please sign in with your email address.","To check out, please sign in with your email address.",module,Magento_Paypal
 "We can't start Express Checkout.","We can't start Express Checkout.",module,Magento_Paypal
 "Your payment has been declined. Please try again.","Your payment has been declined. Please try again.",module,Magento_Paypal
@@ -3614,11 +3614,11 @@ View,View,module,Magento_Paypal
 Create...,Create...,module,Magento_Paypal
 "Your credit card will be charged for","Your credit card will be charged for",module,Magento_Paypal
 "Your billing agreement # is: ","Your billing agreement # is: ",module,Magento_Paypal
-"Shipping Method","Shipping Method",module,Magento_Paypal
-"Please select a shipping method...","Please select a shipping method...",module,Magento_Paypal
-"Update Shipping Method","Update Shipping Method",module,Magento_Paypal
+"Shipping Method","Delivery Method",module,Magento_Paypal
+"Please select a shipping method...","Please select a delivery method...",module,Magento_Paypal
+"Update Shipping Method","Update Delivery Method",module,Magento_Paypal
 "Sorry, no quotes are available for this order right now.","Sorry, no quotes are available for this order right now.",module,Magento_Paypal
-"Shipping Address","Shipping Address",module,Magento_Paypal
+"Shipping Address","Delivery Address",module,Magento_Paypal
 Edit,Edit,module,Magento_Paypal
 "Buy now with PayPal","Buy now with PayPal",module,Magento_Paypal
 "Edit Payment Information","Edit Payment Information",module,Magento_Paypal
@@ -3630,7 +3630,7 @@ Item,Item,module,Magento_Paypal
 Price,Price,module,Magento_Paypal
 Qty,Qty,module,Magento_Paypal
 Subtotal,Subtotal,module,Magento_Paypal
-"Please update order data to get shipping methods and rates","Please update order data to get shipping methods and rates",module,Magento_Paypal
+"Please update order data to get shipping methods and rates","Please update order data to get delivery methods and rates",module,Magento_Paypal
 or,or,module,Magento_Paypal
 "Checkout with PayPal","Checkout with PayPal",module,Magento_Paypal
 "Please do not refresh the page until you complete payment.","Please do not refresh the page until you complete payment.",module,Magento_Paypal
@@ -3697,19 +3697,19 @@ Duration:,Duration:,module,Magento_ProductVideo
 "Could not apply coupon code","Could not apply coupon code",module,Magento_Quote
 "Coupon code is not valid","Coupon code is not valid",module,Magento_Quote
 "Could not delete coupon code","Could not delete coupon code",module,Magento_Quote
-"Shipping address is not set","Shipping address is not set",module,Magento_Quote
+"Shipping address is not set","Delivery address is not set",module,Magento_Quote
 "The requested Payment Method is not available.","The requested Payment Method is not available.",module,Magento_Quote
 "We found an invalid request for adding product to quote.","We found an invalid request for adding product to quote.",module,Magento_Quote
 "This is the wrong quote item id to update configuration.","This is the wrong quote item id to update configuration.",module,Magento_Quote
-"This shipping method is not available. To use this shipping method, please contact us.","This shipping method is not available. To use this shipping method, please contact us.",module,Magento_Quote
+"This shipping method is not available. To use this shipping method, please contact us.","This delivery method is not available. To use this delivery method, please contact us.",module,Magento_Quote
 "The address model is not defined.","The address model is not defined.",module,Magento_Quote
 "The address total model should be extended from
                     \Magento\Quote\Model\Quote\Address\Total\AbstractTotal.","The address total model should be extended from
                     \Magento\Quote\Model\Quote\Address\Total\AbstractTotal.",module,Magento_Quote
 "Grand Total","Grand Total",module,Magento_Quote
-"Shipping & Handling (%1)","Shipping & Handling (%1)",module,Magento_Quote
-"Shipping & Handling","Shipping & Handling",module,Magento_Quote
-Shipping,Shipping,module,Magento_Quote
+"Shipping & Handling (%1)","Delivery & Handling (%1)",module,Magento_Quote
+"Shipping & Handling","Delivery & Handling",module,Magento_Quote
+Shipping,Delivery,module,Magento_Quote
 Subtotal,Subtotal,module,Magento_Quote
 "We found an invalid item option format.","We found an invalid item option format.",module,Magento_Quote
 "An item option with code %1 already exists.","An item option with code %1 already exists.",module,Magento_Quote
@@ -3732,19 +3732,19 @@ Subtotal,Subtotal,module,Magento_Quote
 "Cannot assign customer to the given cart. Customer already has active cart.","Cannot assign customer to the given cart. Customer already has active cart.",module,Magento_Quote
 "Cannot place order.","Cannot place order.",module,Magento_Quote
 "This item price or quantity is not valid for checkout.","This item price or quantity is not valid for checkout.",module,Magento_Quote
-"Please check the shipping address information. %1","Please check the shipping address information. %1",module,Magento_Quote
-"Please specify a shipping method.","Please specify a shipping method.",module,Magento_Quote
+"Please check the shipping address information. %1","Please check the delivery address information. %1",module,Magento_Quote
+"Please specify a shipping method.","Please specify a delivery method.",module,Magento_Quote
 "Please check the billing address information. %1","Please check the billing address information. %1",module,Magento_Quote
 "Please select a valid payment method.","Please select a valid payment method.",module,Magento_Quote
 "Store Credit","Store Credit",module,Magento_Quote
 Discount,Discount,module,Magento_Quote
 Tax,Tax,module,Magento_Quote
-"Cart contains virtual product(s) only. Shipping address is not applicable.","Cart contains virtual product(s) only. Shipping address is not applicable.",module,Magento_Quote
-"Shipping address not set.","Shipping address not set.",module,Magento_Quote
-"Shipping method is not applicable for empty cart","Shipping method is not applicable for empty cart",module,Magento_Quote
-"Cart contains virtual product(s) only. Shipping method is not applicable.","Cart contains virtual product(s) only. Shipping method is not applicable.",module,Magento_Quote
+"Cart contains virtual product(s) only. Shipping address is not applicable.","Cart contains virtual product(s) only. Delivery address is not applicable.",module,Magento_Quote
+"Shipping address not set.","Delivery address not set.",module,Magento_Quote
+"Shipping method is not applicable for empty cart","Delivery method is not applicable for empty cart",module,Magento_Quote
+"Cart contains virtual product(s) only. Shipping method is not applicable.","Cart contains virtual product(s) only. Delivery method is not applicable.",module,Magento_Quote
 "Carrier with such method not found: %1, %2","Carrier with such method not found: %1, %2",module,Magento_Quote
-"Cannot set shipping method. %1","Cannot set shipping method. %1",module,Magento_Quote
+"Cannot set shipping method. %1","Cannot set delivery method. %1",module,Magento_Quote
 error123,error123,module,Magento_Quote
 error345,error345,module,Magento_Quote
 "New Accounts","New Accounts",module,Magento_Reports
@@ -4237,7 +4237,7 @@ Invoices,Invoices,module,Magento_Sales
 "We can't get the order instance right now.","We can't get the order instance right now.",module,Magento_Sales
 "Create New Order","Create New Order",module,Magento_Sales
 "Save Order Address","Save Order Address",module,Magento_Sales
-Shipping,Shipping,module,Magento_Sales
+Shipping,Delivery,module,Magento_Sales
 Billing,Billing,module,Magento_Sales
 "Edit Order %1 %2 Address","Edit Order %1 %2 Address",module,Magento_Sales
 "Order Address Information","Order Address Information",module,Magento_Sales
@@ -4280,8 +4280,8 @@ SKU,SKU,module,Magento_Sales
 Price,Price,module,Magento_Sales
 Select,Select,module,Magento_Sales
 Quantity,Quantity,module,Magento_Sales
-"Shipping Address","Shipping Address",module,Magento_Sales
-"Shipping Method","Shipping Method",module,Magento_Sales
+"Shipping Address","Delivery Address",module,Magento_Sales
+"Shipping Method","Delivery Method",module,Magento_Sales
 "Update Changes","Update Changes",module,Magento_Sales
 "Shopping Cart","Shopping Cart",module,Magento_Sales
 "Are you sure you want to delete all items from shopping cart?","Are you sure you want to delete all items from shopping cart?",module,Magento_Sales
@@ -4294,20 +4294,20 @@ Quantity,Quantity,module,Magento_Sales
 "Wish List","Wish List",module,Magento_Sales
 "Please select a store","Please select a store",module,Magento_Sales
 "Order Totals","Order Totals",module,Magento_Sales
-"Shipping Incl. Tax (%1)","Shipping Incl. Tax (%1)",module,Magento_Sales
-"Shipping Excl. Tax (%1)","Shipping Excl. Tax (%1)",module,Magento_Sales
+"Shipping Incl. Tax (%1)","Delivery Incl. Tax (%1)",module,Magento_Sales
+"Shipping Excl. Tax (%1)","Delivery Excl. Tax (%1)",module,Magento_Sales
 "New Credit Memo for Invoice #%1","New Credit Memo for Invoice #%1",module,Magento_Sales
 "New Credit Memo for Order #%1","New Credit Memo for Order #%1",module,Magento_Sales
-"Refund Shipping (Incl. Tax)","Refund Shipping (Incl. Tax)",module,Magento_Sales
-"Refund Shipping (Excl. Tax)","Refund Shipping (Excl. Tax)",module,Magento_Sales
-"Refund Shipping","Refund Shipping",module,Magento_Sales
+"Refund Shipping (Incl. Tax)","Refund Delivery (Incl. Tax)",module,Magento_Sales
+"Refund Shipping (Excl. Tax)","Refund Delivery (Excl. Tax)",module,Magento_Sales
+"Refund Shipping","Refund Delivery",module,Magento_Sales
 "Update Qty's","Update Qty's",module,Magento_Sales
 Refund,Refund,module,Magento_Sales
 "Refund Offline","Refund Offline",module,Magento_Sales
 "Paid Amount","Paid Amount",module,Magento_Sales
 "Refund Amount","Refund Amount",module,Magento_Sales
-"Shipping Amount","Shipping Amount",module,Magento_Sales
-"Shipping Refund","Shipping Refund",module,Magento_Sales
+"Shipping Amount","Delivery Amount",module,Magento_Sales
+"Shipping Refund","Delivery Refund",module,Magento_Sales
 "Order Grand Total","Order Grand Total",module,Magento_Sales
 "Adjustment Refund","Adjustment Refund",module,Magento_Sales
 "Adjustment Fee","Adjustment Fee",module,Magento_Sales
@@ -4398,7 +4398,7 @@ No,No,module,Magento_Sales
 "Show Actual Values","Show Actual Values",module,Magento_Sales
 "New Order RSS","New Order RSS",module,Magento_Sales
 Subtotal,Subtotal,module,Magento_Sales
-"Shipping & Handling","Shipping & Handling",module,Magento_Sales
+"Shipping & Handling","Delivery & Handling",module,Magento_Sales
 "Discount (%1)","Discount (%1)",module,Magento_Sales
 Discount,Discount,module,Magento_Sales
 "Grand Total","Grand Total",module,Magento_Sales
@@ -4517,10 +4517,10 @@ Home,Home,module,Magento_Sales
 "We can't find this wish list.","We can't find this wish list.",module,Magento_Sales
 "We could not add a product to cart by the ID ""%1"".","We could not add a product to cart by the ID ""%1"".",module,Magento_Sales
 "There is an error in one of the option rows.","There is an error in one of the option rows.",module,Magento_Sales
-"Shipping Address: ","Shipping Address: ",module,Magento_Sales
+"Shipping Address: ","Delivery Address: ",module,Magento_Sales
 "Billing Address: ","Billing Address: ",module,Magento_Sales
 "Please specify order items.","Please specify order items.",module,Magento_Sales
-"Please specify a shipping method.","Please specify a shipping method.",module,Magento_Sales
+"Please specify a shipping method.","Please specify a delivery method.",module,Magento_Sales
 "Please specify a payment method.","Please specify a payment method.",module,Magento_Sales
 "This payment method is not available.","This payment method is not available.",module,Magento_Sales
 "Validation is failed.","Validation is failed.",module,Magento_Sales
@@ -4548,7 +4548,7 @@ Refunded,Refunded,module,Magento_Sales
 Canceled,Canceled,module,Magento_Sales
 "Unknown State","Unknown State",module,Magento_Sales
 "We found an invalid quantity to refund item ""%1"".","We found an invalid quantity to refund item ""%1"".",module,Magento_Sales
-"Maximum shipping amount allowed to refund is: %1","Maximum shipping amount allowed to refund is: %1",module,Magento_Sales
+"Maximum shipping amount allowed to refund is: %1","Maximum delivery amount allowed to refund is: %1",module,Magento_Sales
 "Could not delete credit memo","Could not delete credit memo",module,Magento_Sales
 "Could not save credit memo","Could not save credit memo",module,Magento_Sales
 "This order already has associated customer account","This order already has associated customer account",module,Magento_Sales
@@ -4609,8 +4609,8 @@ Authorization,Authorization,module,Magento_Sales
 "Sold to:","Sold to:",module,Magento_Sales
 "Ship to:","Ship to:",module,Magento_Sales
 "Payment Method:","Payment Method:",module,Magento_Sales
-"Shipping Method:","Shipping Method:",module,Magento_Sales
-"Total Shipping Charges","Total Shipping Charges",module,Magento_Sales
+"Shipping Method:","Delivery Method:",module,Magento_Sales
+"Total Shipping Charges","Total Delivery Charges",module,Magento_Sales
 Title,Title,module,Magento_Sales
 Number,Number,module,Magento_Sales
 "We found an invalid renderer model.","We found an invalid renderer model.",module,Magento_Sales
@@ -4691,7 +4691,7 @@ New,New,module,Magento_Sales
 " Transaction ID: ""%1"""," Transaction ID: ""%1""",module,Magento_Sales
 View,View,module,Magento_Sales
 "Group was removed","Group was removed",module,Magento_Sales
-"Changing address information will not recalculate shipping, tax or other order amount.","Changing address information will not recalculate shipping, tax or other order amount.",module,Magento_Sales
+"Changing address information will not recalculate shipping, tax or other order amount.","Changing address information will not recalculate delivery, tax or other order amount.",module,Magento_Sales
 "Comment Text","Comment Text",module,Magento_Sales
 "Notify Customer by Email","Notify Customer by Email",module,Magento_Sales
 "Visible on Storefront","Visible on Storefront",module,Magento_Sales
@@ -4705,14 +4705,14 @@ Apply,Apply,module,Magento_Sales
 "Remove Coupon Code","Remove Coupon Code",module,Magento_Sales
 Remove,Remove,module,Magento_Sales
 "Address Information","Address Information",module,Magento_Sales
-"Payment &amp; Shipping Information","Payment &amp; Shipping Information",module,Magento_Sales
+"Payment &amp; Shipping Information","Payment &amp; Delivery Information",module,Magento_Sales
 "Order Total","Order Total",module,Magento_Sales
 "Order Currency:","Order Currency:",module,Magento_Sales
 "Same As Billing Address","Same As Billing Address",module,Magento_Sales
 "Select from existing customer addresses:","Select from existing customer addresses:",module,Magento_Sales
 "Add New Address","Add New Address",module,Magento_Sales
 "Save in address book","Save in address book",module,Magento_Sales
-"You don't need to select a shipping address.","You don't need to select a shipping address.",module,Magento_Sales
+"You don't need to select a shipping address.","You don't need to select a delivery address.",module,Magento_Sales
 "Gift Message for the Entire Order","Gift Message for the Entire Order",module,Magento_Sales
 "Leave this box blank if you don't want to leave a gift message for the entire order.","Leave this box blank if you don't want to leave a gift message for the entire order.",module,Magento_Sales
 "Row Subtotal","Row Subtotal",module,Magento_Sales
@@ -4727,10 +4727,10 @@ Subtotal:,Subtotal:,module,Magento_Sales
 "Move to Shopping Cart","Move to Shopping Cart",module,Magento_Sales
 "Move to Wish List","Move to Wish List",module,Magento_Sales
 "Subscribe to Newsletter","Subscribe to Newsletter",module,Magento_Sales
-"Click to change shipping method","Click to change shipping method",module,Magento_Sales
+"Click to change shipping method","Click to change delivery method",module,Magento_Sales
 "Sorry, no quotes are available for this order.","Sorry, no quotes are available for this order.",module,Magento_Sales
-"Get shipping methods and rates","Get shipping methods and rates",module,Magento_Sales
-"You don't need to select a shipping method.","You don't need to select a shipping method.",module,Magento_Sales
+"Get shipping methods and rates","Get delivery methods and rates",module,Magento_Sales
+"You don't need to select a shipping method.","You don't need to select a delivery method.",module,Magento_Sales
 "Customer's Activities","Customer's Activities",module,Magento_Sales
 Refresh,Refresh,module,Magento_Sales
 Item,Item,module,Magento_Sales
@@ -4743,10 +4743,10 @@ Item,Item,module,Magento_Sales
 "Grand Total Incl. Tax","Grand Total Incl. Tax",module,Magento_Sales
 "Subtotal (Excl. Tax)","Subtotal (Excl. Tax)",module,Magento_Sales
 "Subtotal (Incl. Tax)","Subtotal (Incl. Tax)",module,Magento_Sales
-"Payment &amp; Shipping Method","Payment &amp; Shipping Method",module,Magento_Sales
+"Payment &amp; Shipping Method","Payment &amp; Delivery Method",module,Magento_Sales
 "Payment Information","Payment Information",module,Magento_Sales
 "The order was placed using %1.","The order was placed using %1.",module,Magento_Sales
-"Shipping Information","Shipping Information",module,Magento_Sales
+"Shipping Information","Delivery Information",module,Magento_Sales
 "Items to Refund","Items to Refund",module,Magento_Sales
 "Return to Stock","Return to Stock",module,Magento_Sales
 "Qty to Refund","Qty to Refund",module,Magento_Sales
@@ -4769,7 +4769,7 @@ Item,Item,module,Magento_Sales
 From:,From:,module,Magento_Sales
 To:,To:,module,Magento_Sales
 Message:,Message:,module,Magento_Sales
-"Shipping &amp; Handling","Shipping &amp; Handling",module,Magento_Sales
+"Shipping &amp; Handling","Delivery &amp; Handling",module,Magento_Sales
 "Gift Options","Gift Options",module,Magento_Sales
 "Create Shipment","Create Shipment",module,Magento_Sales
 "Invoice and shipment types do not match for some items on this order. You can create a shipment only after creating the invoice.","Invoice and shipment types do not match for some items on this order. You can create a shipment only after creating the invoice.",module,Magento_Sales
@@ -4836,7 +4836,7 @@ Date,Date,module,Magento_Sales
 Actions,Actions,module,Magento_Sales
 "View Order","View Order",module,Magento_Sales
 "You have placed no orders.","You have placed no orders.",module,Magento_Sales
-"No shipping information available","No shipping information available",module,Magento_Sales
+"No shipping information available","No delivery information available",module,Magento_Sales
 "Print Order","Print Order",module,Magento_Sales
 "Print All Invoices","Print All Invoices",module,Magento_Sales
 "Invoice #","Invoice #",module,Magento_Sales
@@ -5226,12 +5226,12 @@ Priority,Priority,module,Magento_Tax
 "Sort Order","Sort Order",module,Magento_Tax
 "Do you really want to delete this tax class?","Do you really want to delete this tax class?",module,Magento_Tax
 "Add New Tax Class","Add New Tax Class",module,Magento_Tax
-"Shipping Incl. Tax (%1)","Shipping Incl. Tax (%1)",module,Magento_Tax
-"Shipping Excl. Tax (%1)","Shipping Excl. Tax (%1)",module,Magento_Tax
+"Shipping Incl. Tax (%1)","Delivery Incl. Tax (%1)",module,Magento_Tax
+"Shipping Excl. Tax (%1)","Delivery Excl. Tax (%1)",module,Magento_Tax
 "Subtotal (Excl.Tax)","Subtotal (Excl.Tax)",module,Magento_Tax
 "Subtotal (Incl.Tax)","Subtotal (Incl.Tax)",module,Magento_Tax
-"Shipping & Handling (Excl.Tax)","Shipping & Handling (Excl.Tax)",module,Magento_Tax
-"Shipping & Handling (Incl.Tax)","Shipping & Handling (Incl.Tax)",module,Magento_Tax
+"Shipping & Handling (Excl.Tax)","Delivery & Handling (Excl.Tax)",module,Magento_Tax
+"Shipping & Handling (Incl.Tax)","Delivery & Handling (Incl.Tax)",module,Magento_Tax
 "Grand Total (Excl.Tax)","Grand Total (Excl.Tax)",module,Magento_Tax
 "Grand Total (Incl.Tax)","Grand Total (Incl.Tax)",module,Magento_Tax
 Sales,Sales,module,Magento_Tax
@@ -5270,9 +5270,9 @@ Tax,Tax,module,Magento_Tax
 "You cannot delete this tax class because it is used in existing %1(s).","You cannot delete this tax class because it is used in existing %1(s).",module,Magento_Tax
 "Custom price if available","Custom price if available",module,Magento_Tax
 "Original price only","Original price only",module,Magento_Tax
-"Shipping Address","Shipping Address",module,Magento_Tax
+"Shipping Address","Delivery Address",module,Magento_Tax
 "Billing Address","Billing Address",module,Magento_Tax
-"Shipping Origin","Shipping Origin",module,Magento_Tax
+"Shipping Origin","Delivery Origin",module,Magento_Tax
 "No (price without tax)","No (price without tax)",module,Magento_Tax
 "Yes (only price with tax)","Yes (only price with tax)",module,Magento_Tax
 "Both (without and with tax)","Both (without and with tax)",module,Magento_Tax
@@ -5282,8 +5282,8 @@ Code,Code,module,Magento_Tax
 "Class name and class type","Class name and class type",module,Magento_Tax
 "Grand Total (Excl. Tax)","Grand Total (Excl. Tax)",module,Magento_Tax
 "Grand Total (Incl. Tax)","Grand Total (Incl. Tax)",module,Magento_Tax
-"Shipping (Excl. Tax)","Shipping (Excl. Tax)",module,Magento_Tax
-"Shipping (Incl. Tax)","Shipping (Incl. Tax)",module,Magento_Tax
+"Shipping (Excl. Tax)","Delivery (Excl. Tax)",module,Magento_Tax
+"Shipping (Incl. Tax)","Delivery (Incl. Tax)",module,Magento_Tax
 "Subtotal (Excl. Tax)","Subtotal (Excl. Tax)",module,Magento_Tax
 "Subtotal (Incl. Tax)","Subtotal (Incl. Tax)",module,Magento_Tax
 Subtotal,Subtotal,module,Magento_Tax
@@ -5512,7 +5512,7 @@ Pounds,Pounds,module,Magento_Ups
 Kilograms,Kilograms,module,Magento_Ups
 "Sorry, something went wrong. Please try again or contact us and we'll try to help.","Sorry, something went wrong. Please try again or contact us and we'll try to help.",module,Magento_Ups
 "We can't convert a rate from ""%1-%2"".","We can't convert a rate from ""%1-%2"".",module,Magento_Ups
-"Cannot retrieve shipping rates","Cannot retrieve shipping rates",module,Magento_Ups
+"Cannot retrieve shipping rates","Cannot retrieve delivery rates",module,Magento_Ups
 status,status,module,Magento_Ups
 error_message,error_message,module,Magento_Ups
 "Empty response","Empty response",module,Magento_Ups
@@ -6003,8 +6003,8 @@ Customer:,Customer:,module,Magento_Checkout
 Items,Items,module,Magento_Checkout
 Total:,Total:,module,Magento_Checkout
 "Billing Address:","Billing Address:",module,Magento_Checkout
-"Shipping Address:","Shipping Address:",module,Magento_Checkout
-"Shipping Method:","Shipping Method:",module,Magento_Checkout
+"Shipping Address:","Delivery Address:",module,Magento_Checkout
+"Shipping Method:","Delivery Method:",module,Magento_Checkout
 "Payment Method:","Payment Method:",module,Magento_Checkout
 "Date & Time:","Date & Time:",module,Magento_Checkout
 "Name: %name","Name: %name",module,Magento_Contact
@@ -6022,7 +6022,7 @@ Password:,Password:,module,Magento_Customer
 "Proceed through checkout faster","Proceed through checkout faster",module,Magento_Customer
 "Check the status of orders","Check the status of orders",module,Magento_Customer
 "View past orders","View past orders",module,Magento_Customer
-"Store alternative addresses (for shipping to multiple family members and friends)","Store alternative addresses (for shipping to multiple family members and friends)",module,Magento_Customer
+"Store alternative addresses (for shipping to multiple family members and friends)","Store alternative addresses (for delivery to multiple family members and friends)",module,Magento_Customer
 "You must confirm your %customer_email email before you can sign in (link is only valid once):","You must confirm your %customer_email email before you can sign in (link is only valid once):",module,Magento_Customer
 "Confirm Your Account","Confirm Your Account",module,Magento_Customer
 "Thank you for confirming your %store_name account.","Thank you for confirming your %store_name account.",module,Magento_Customer
@@ -6048,7 +6048,7 @@ Password:,Password:,module,Magento_Customer
 "Our hours are <span class=""no-link"">%store_hours</span>.","Our hours are <span class=""no-link"">%store_hours</span>.",module,Magento_Sales
 "Your Credit Memo #%creditmemo_id for Order #%order_id","Your Credit Memo #%creditmemo_id for Order #%order_id",module,Magento_Sales
 "Billing Info","Billing Info",module,Magento_Sales
-"Shipping Info","Shipping Info",module,Magento_Sales
+"Shipping Info","Delivery Info",module,Magento_Sales
 "Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.",module,Magento_Sales
 "Your Invoice #%invoice_id for Order #%order_id","Your Invoice #%invoice_id for Order #%order_id",module,Magento_Sales
 "%customer_name,","%customer_name,",module,Magento_Sales
@@ -6056,7 +6056,7 @@ Password:,Password:,module,Magento_Customer
 "Your Order <span class=""no-link"">#%increment_id</span>","Your Order <span class=""no-link"">#%increment_id</span>",module,Magento_Sales
 "Placed on <span class=""no-link"">%created_at</span>","Placed on <span class=""no-link"">%created_at</span>",module,Magento_Sales
 "Once your package ships we will send an email with a link to track your order.","Once your package ships we will send an email with a link to track your order.",module,Magento_Sales
-"Your shipping confirmation is below. Thank you again for your business.","Your shipping confirmation is below. Thank you again for your business.",module,Magento_Sales
+"Your shipping confirmation is below. Thank you again for your business.","Your delivery confirmation is below. Thank you again for your business.",module,Magento_Sales
 "Your Shipment #%shipment_id for Order #%order_id","Your Shipment #%shipment_id for Order #%order_id",module,Magento_Sales
 "%name,","%name,",module,Magento_SendFriend
 "%sender_name wants to share this product with you:","%sender_name wants to share this product with you:",module,Magento_SendFriend
@@ -6086,7 +6086,7 @@ Password:,Password:,theme,frontend/Magento/luma
 "Check the status of orders","Check the status of orders",theme,frontend/Magento/luma
 "Manage Addresses","Manage Addresses",theme,frontend/Magento/luma
 "Store alternative addresses","Store alternative addresses",theme,frontend/Magento/luma
-"For shipping to multiple family members and friends","For shipping to multiple family members and friends",theme,frontend/Magento/luma
+"For shipping to multiple family members and friends","For delivery to multiple family members and friends",theme,frontend/Magento/luma
 "Order History","Order History",theme,frontend/Magento/luma
 "View past orders","View past orders",theme,frontend/Magento/luma
 "About Us","About Us",theme,frontend/Magento/luma
@@ -6098,16 +6098,16 @@ Password:,Password:,theme,frontend/Magento/luma
 "If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.",theme,frontend/Magento/luma
 "Your Credit Memo #%creditmemo_id for Order #%order_id","Your Credit Memo #%creditmemo_id for Order #%order_id",theme,frontend/Magento/luma
 "Billing Info","Billing Info",theme,frontend/Magento/luma
-"Shipping Info","Shipping Info",theme,frontend/Magento/luma
+"Shipping Info","Delivery Info",theme,frontend/Magento/luma
 "Payment Method","Payment Method",theme,frontend/Magento/luma
-"Shipping Method","Shipping Method",theme,frontend/Magento/luma
+"Shipping Method","Delivery Method",theme,frontend/Magento/luma
 "Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.",theme,frontend/Magento/luma
 "Your Invoice #%invoice_id for Order #%order_id","Your Invoice #%invoice_id for Order #%order_id",theme,frontend/Magento/luma
 "%customer_name,","%customer_name,",theme,frontend/Magento/luma
 "Once your package ships we will send you a tracking number.","Once your package ships we will send you a tracking number.",theme,frontend/Magento/luma
 "Your Order <span class=""no-link"">#%increment_id</span>","Your Order <span class=""no-link"">#%increment_id</span>",theme,frontend/Magento/luma
 "Placed on <span class=""no-link"">%created_at</span>","Placed on <span class=""no-link"">%created_at</span>",theme,frontend/Magento/luma
-"Your shipping confirmation is below. Thank you again for your business.","Your shipping confirmation is below. Thank you again for your business.",theme,frontend/Magento/luma
+"Your shipping confirmation is below. Thank you again for your business.","Your delivery confirmation is below. Thank you again for your business.",theme,frontend/Magento/luma
 "Your Shipment #%shipment_id for Order #%order_id","Your Shipment #%shipment_id for Order #%order_id",theme,frontend/Magento/luma
 "Backup options","Backup options",lib,lib/web/mage/adminhtml/backup.js
 Warning,Warning,lib,lib/web/mage/adminhtml/backup.js
@@ -6490,7 +6490,7 @@ Debug,Debug,module,Magento_Braintree
 "Override Merchant Name","Override Merchant Name",module,Magento_Braintree
 "Display on Shopping Cart","Display on Shopping Cart",module,Magento_Braintree
 "Require Customer's Billing Address","Require Customer's Billing Address",module,Magento_Braintree
-"Allow to Edit Shipping Address Entered During Checkout on PayPal Side","Allow to Edit Shipping Address Entered During Checkout on PayPal Side",module,Magento_Braintree
+"Allow to Edit Shipping Address Entered During Checkout on PayPal Side","Allow to Edit Delivery Address Entered During Checkout on PayPal Side",module,Magento_Braintree
 "3D Secure Verification Settings","3D Secure Verification Settings",module,Magento_Braintree
 "3D Secure Verification","3D Secure Verification",module,Magento_Braintree
 "Edit My Credit Cards","Edit My Credit Cards",module,Magento_Braintree
@@ -6691,9 +6691,9 @@ Details,Details,module,Magento_Catalog
 "Send Payment Failed Email Copy To","Send Payment Failed Email Copy To",module,Magento_Checkout
 "Separate by "","".","Separate by "","".",module,Magento_Checkout
 "Send Payment Failed Email Copy Method","Send Payment Failed Email Copy Method",module,Magento_Checkout
-Shipping,Shipping,module,Magento_Checkout
+Shipping,Delivery,module,Magento_Checkout
 "Order Total","Order Total",module,Magento_Checkout
-"Shipping Address","Shipping Address",module,Magento_Checkout
+"Shipping Address","Delivery Address",module,Magento_Checkout
 "Save Address","Save Address",module,Magento_Checkout
 Cancel,Cancel,module,Magento_Checkout
 "We'll send your order confirmation here.","We'll send your order confirmation here.",module,Magento_Checkout
@@ -6906,13 +6906,13 @@ Password,Password,module,Magento_Dhl
 """Per Order"" allows a single handling fee for the entire order. ""Per Package"" allows an individual handling fee for each package.","""Per Order"" allows a single handling fee for the entire order. ""Per Package"" allows an individual handling fee for each package.",module,Magento_Dhl
 "Handling Fee","Handling Fee",module,Magento_Dhl
 "Divide Order Weight","Divide Order Weight",module,Magento_Dhl
-"Select this to allow DHL to optimize shipping charges by splitting the order if it exceeds 70 kg.","Select this to allow DHL to optimize shipping charges by splitting the order if it exceeds 70 kg.",module,Magento_Dhl
+"Select this to allow DHL to optimize shipping charges by splitting the order if it exceeds 70 kg.","Select this to allow DHL to optimize delivery charges by splitting the order if it exceeds 70 kg.",module,Magento_Dhl
 "Weight Unit","Weight Unit",module,Magento_Dhl
 Size,Size,module,Magento_Dhl
 "Allowed Methods","Allowed Methods",module,Magento_Dhl
 "Displayed Error Message","Displayed Error Message",module,Magento_Dhl
 "Free Method","Free Method",module,Magento_Dhl
-"Free Shipping Amount Threshold","Free Shipping Amount Threshold",module,Magento_Dhl
+"Free Shipping Amount Threshold","Free Delivery Amount Threshold",module,Magento_Dhl
 "Ship to Applicable Countries","Ship to Applicable Countries",module,Magento_Dhl
 "Ship to Specific Countries","Ship to Specific Countries",module,Magento_Dhl
 "Show Method if Not Applicable","Show Method if Not Applicable",module,Magento_Dhl
@@ -6997,7 +6997,7 @@ Dropoff,Dropoff,module,Magento_Fedex
 "Hub ID","Hub ID",module,Magento_Fedex
 "The field is applicable if the Smart Post method is selected.","The field is applicable if the Smart Post method is selected.",module,Magento_Fedex
 "Free Method","Free Method",module,Magento_Fedex
-"Free Shipping Amount Threshold","Free Shipping Amount Threshold",module,Magento_Fedex
+"Free Shipping Amount Threshold","Free Delivery Amount Threshold",module,Magento_Fedex
 "Displayed Error Message","Displayed Error Message",module,Magento_Fedex
 "Ship to Applicable Countries","Ship to Applicable Countries",module,Magento_Fedex
 "Ship to Specific Countries","Ship to Specific Countries",module,Magento_Fedex
@@ -7068,10 +7068,10 @@ Status,Status,module,Magento_Integration
 "Default \"What's This\" Text Message","Default \"What's This\" Text Message",module,Magento_Msrp
 "Multishipping Settings","Multishipping Settings",module,Magento_Multishipping
 Options,Options,module,Magento_Multishipping
-"Allow Shipping to Multiple Addresses","Allow Shipping to Multiple Addresses",module,Magento_Multishipping
-"Maximum Qty Allowed for Shipping to Multiple Addresses","Maximum Qty Allowed for Shipping to Multiple Addresses",module,Magento_Multishipping
+"Allow Shipping to Multiple Addresses","Allow Delivery to Multiple Addresses",module,Magento_Multishipping
+"Maximum Qty Allowed for Shipping to Multiple Addresses","Maximum Qty Allowed for Delivery to Multiple Addresses",module,Magento_Multishipping
 "Review Order","Review Order",module,Magento_Multishipping
-"Select Shipping Method","Select Shipping Method",module,Magento_Multishipping
+"Select Shipping Method","Select Delivery Method",module,Magento_Multishipping
 "We received your order!","We received your order!",module,Magento_Multishipping
 "New Relic Reporting","New Relic Reporting",module,Magento_NewRelicReporting
 General,General,module,Magento_NewRelicReporting
@@ -7632,7 +7632,7 @@ Created,Created,module,Magento_Sales
 "Grand Total (Base)","Grand Total (Base)",module,Magento_Sales
 "Grand Total (Purchased)","Grand Total (Purchased)",module,Magento_Sales
 "Customer Email","Customer Email",module,Magento_Sales
-"Shipping and Handling","Shipping and Handling",module,Magento_Sales
+"Shipping and Handling","Delivery and Handling",module,Magento_Sales
 "PDF Invoices","PDF Invoices",module,Magento_Sales
 "PDF Shipments","PDF Shipments",module,Magento_Sales
 "PDF Creditmemos","PDF Creditmemos",module,Magento_Sales
@@ -7670,7 +7670,7 @@ City,City,module,Magento_Shipping
 "Shipping Policy Parameters","Shipping Policy Parameters",module,Magento_Shipping
 "Apply custom Shipping Policy","Apply custom Shipping Policy",module,Magento_Shipping
 "Shipping Policy","Shipping Policy",module,Magento_Shipping
-"Shipping Methods","Shipping Methods",module,Magento_Shipping
+"Shipping Methods","Delivery Methods",module,Magento_Shipping
 "Categories Options","Categories Options",module,Magento_Sitemap
 Frequency,Frequency,module,Magento_Sitemap
 Priority,Priority,module,Magento_Sitemap
@@ -7711,7 +7711,7 @@ Layouts,Layouts,module,Magento_Store
 CSV,CSV,module,Magento_TaxImportExport
 "Excel XML","Excel XML",module,Magento_TaxImportExport
 "Tax Classes","Tax Classes",module,Magento_Tax
-"Tax Class for Shipping","Tax Class for Shipping",module,Magento_Tax
+"Tax Class for Shipping","Tax Class for Delivery",module,Magento_Tax
 "Default Tax Class for Product","Default Tax Class for Product",module,Magento_Tax
 "Default Tax Class for Customer","Default Tax Class for Customer",module,Magento_Tax
 "Calculation Settings","Calculation Settings",module,Magento_Tax
@@ -7719,8 +7719,8 @@ CSV,CSV,module,Magento_TaxImportExport
 "Tax Calculation Based On","Tax Calculation Based On",module,Magento_Tax
 "Catalog Prices","Catalog Prices",module,Magento_Tax
 "This sets whether catalog prices entered from Magento Admin include tax.","This sets whether catalog prices entered from Magento Admin include tax.",module,Magento_Tax
-"Shipping Prices","Shipping Prices",module,Magento_Tax
-"This sets whether shipping amounts entered from Magento Admin or obtained from gateways include tax.","This sets whether shipping amounts entered from Magento Admin or obtained from gateways include tax.",module,Magento_Tax
+"Shipping Prices","Delivery Prices",module,Magento_Tax
+"This sets whether shipping amounts entered from Magento Admin or obtained from gateways include tax.","This sets whether delivery amounts entered from Magento Admin or obtained from gateways include tax.",module,Magento_Tax
 "Apply Customer Tax","Apply Customer Tax",module,Magento_Tax
 "Apply Discount On Prices","Apply Discount On Prices",module,Magento_Tax
 "Apply discount on price including tax is calculated based on store tax if ""Apply Tax after Discount"" is selected.","Apply discount on price including tax is calculated based on store tax if ""Apply Tax after Discount"" is selected.",module,Magento_Tax
@@ -7733,11 +7733,11 @@ CSV,CSV,module,Magento_TaxImportExport
 "Default Post Code","Default Post Code",module,Magento_Tax
 "Price Display Settings","Price Display Settings",module,Magento_Tax
 "Display Product Prices In Catalog","Display Product Prices In Catalog",module,Magento_Tax
-"Display Shipping Prices","Display Shipping Prices",module,Magento_Tax
+"Display Shipping Prices","Display Delivery Prices",module,Magento_Tax
 "Shopping Cart Display Settings","Shopping Cart Display Settings",module,Magento_Tax
 "Display Prices","Display Prices",module,Magento_Tax
 "Display Subtotal","Display Subtotal",module,Magento_Tax
-"Display Shipping Amount","Display Shipping Amount",module,Magento_Tax
+"Display Shipping Amount","Display Delivery Amount",module,Magento_Tax
 "Include Tax In Order Total","Include Tax In Order Total",module,Magento_Tax
 "Display Full Tax Summary","Display Full Tax Summary",module,Magento_Tax
 "Display Zero Tax Subtotal","Display Zero Tax Subtotal",module,Magento_Tax
@@ -7802,7 +7802,7 @@ UPS,UPS,module,Magento_Ups
 "Allowed Methods","Allowed Methods",module,Magento_Ups
 "Packages Request Type","Packages Request Type",module,Magento_Ups
 Container,Container,module,Magento_Ups
-"Free Shipping Amount Threshold","Free Shipping Amount Threshold",module,Magento_Ups
+"Free Shipping Amount Threshold","Free Delivery Amount Threshold",module,Magento_Ups
 "Destination Type","Destination Type",module,Magento_Ups
 "Free Method","Free Method",module,Magento_Ups
 "Gateway URL","Gateway URL",module,Magento_Ups
@@ -7810,8 +7810,8 @@ Container,Container,module,Magento_Ups
 "Calculate Handling Fee","Calculate Handling Fee",module,Magento_Ups
 "Handling Applied","Handling Applied",module,Magento_Ups
 "Handling Fee","Handling Fee",module,Magento_Ups
-"Maximum Package Weight (Please consult your shipping carrier for maximum supported shipping weight)","Maximum Package Weight (Please consult your shipping carrier for maximum supported shipping weight)",module,Magento_Ups
-"Minimum Package Weight (Please consult your shipping carrier for minimum supported shipping weight)","Minimum Package Weight (Please consult your shipping carrier for minimum supported shipping weight)",module,Magento_Ups
+"Maximum Package Weight (Please consult your shipping carrier for maximum supported shipping weight)","Maximum Package Weight (Please consult your delivery carrier for maximum supported delivery weight)",module,Magento_Ups
+"Minimum Package Weight (Please consult your shipping carrier for minimum supported shipping weight)","Minimum Package Weight (Please consult your delivery carrier for minimum supported delivery weight)",module,Magento_Ups
 "Origin of the Shipment","Origin of the Shipment",module,Magento_Ups
 Password,Password,module,Magento_Ups
 "Pickup Method","Pickup Method",module,Magento_Ups
@@ -7864,13 +7864,13 @@ Length,Length,module,Magento_Usps
 Height,Height,module,Magento_Usps
 Girth,Girth,module,Magento_Usps
 Machinable,Machinable,module,Magento_Usps
-"Maximum Package Weight (Please consult your shipping carrier for maximum supported shipping weight)","Maximum Package Weight (Please consult your shipping carrier for maximum supported shipping weight)",module,Magento_Usps
+"Maximum Package Weight (Please consult your shipping carrier for maximum supported shipping weight)","Maximum Package Weight (Please consult your delivery carrier for maximum supported delivery weight)",module,Magento_Usps
 "Calculate Handling Fee","Calculate Handling Fee",module,Magento_Usps
 "Handling Applied","Handling Applied",module,Magento_Usps
 "Handling Fee","Handling Fee",module,Magento_Usps
 "Allowed Methods","Allowed Methods",module,Magento_Usps
 "Free Method","Free Method",module,Magento_Usps
-"Free Shipping Amount Threshold","Free Shipping Amount Threshold",module,Magento_Usps
+"Free Shipping Amount Threshold","Free Delivery Amount Threshold",module,Magento_Usps
 "Displayed Error Message","Displayed Error Message",module,Magento_Usps
 "Ship to Applicable Countries","Ship to Applicable Countries",module,Magento_Usps
 "Ship to Specific Countries","Ship to Specific Countries",module,Magento_Usps
