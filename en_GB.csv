@@ -514,9 +514,9 @@ CVV,CVV,module,Magento_Braintree
 Company,Company,module,Magento_Braintree
 Address,Address,module,Magento_Braintree
 City,City,module,Magento_Braintree
-State/Province,State/Province,module,Magento_Braintree
+State/Province,County/Region,module,Magento_Braintree
 "Please select region, state or province","Please select region, state or province",module,Magento_Braintree
-"Zip/Postal Code","Zip/Postal Code",module,Magento_Braintree
+"Zip/Postal Code","Postcode",module,Magento_Braintree
 Submit,Submit,module,Magento_Braintree
 "Add Credit Card","Add Credit Card",module,Magento_Braintree
 Type,Type,module,Magento_Braintree
@@ -1370,8 +1370,8 @@ Manually,Manually,module,Magento_CheckoutAgreements
 "Invalid method: %1","Invalid method: %1",module,Magento_Checkout
 City,City,module,Magento_Checkout
 Country,Country,module,Magento_Checkout
-State/Province,State/Province,module,Magento_Checkout
-"Zip/Postal Code","Zip/Postal Code",module,Magento_Checkout
+State/Province,County/Region,module,Magento_Checkout
+"Zip/Postal Code","Postcode",module,Magento_Checkout
 "My Cart (1 item)","My Cart (1 item)",module,Magento_Checkout
 "My Cart (%1 items)","My Cart (%1 items)",module,Magento_Checkout
 "My Cart","My Cart",module,Magento_Checkout
@@ -1419,7 +1419,7 @@ Checkout,Checkout,module,Magento_Checkout
 "Invalid data","Invalid data",module,Magento_Checkout
 "The customer address is not valid.","The customer address is not valid.",module,Magento_Checkout
 "Invalid shipping method","Invalid shipping method",module,Magento_Checkout
-"There are more than one shipping addresses.","There are more than one shipping addresses.",module,Magento_Checkout
+"There are more than one shipping addresses.","There are more than one delivery addresses.",module,Magento_Checkout
 "Sorry, guest checkout is not available.","Sorry, guest checkout is not available.",module,Magento_Checkout
 "You must confirm your account. Please check your email for the confirmation link or <a href=""%1"">click here</a> for a new link.","You must confirm your account. Please check your email for the confirmation link or <a href=""%1"">click here</a> for a new link.",module,Magento_Checkout
 "Load customer quote error","Load customer quote error",module,Magento_Checkout
@@ -1449,7 +1449,7 @@ Edit,Edit,module,Magento_Checkout
 "You have no items in your shopping cart.","You have no items in your shopping cart.",module,Magento_Checkout
 "Click <a href=""%1"">here</a> to continue shopping.","Click <a href=""%1"">here</a> to continue shopping.",module,Magento_Checkout
 "Estimate Tax","Estimate Tax",module,Magento_Checkout
-"Estimate Shipping and Tax","Estimate Shipping and Tax",module,Magento_Checkout
+"Estimate Shipping and Tax","Estimate Delivery and VAT",module,Magento_Checkout
 "Excl. Tax","Excl. Tax",module,Magento_Checkout
 Loading...,Loading...,module,Magento_Checkout
 "Order #","Order #",module,Magento_Checkout
@@ -1819,7 +1819,7 @@ System,System,module,Magento_CurrencySymbol
 "Sign In","Sign In",module,Magento_Customer
 "You subscribe to our newsletter.","You subscribe to our newsletter.",module,Magento_Customer
 "You don't subscribe to our newsletter.","You don't subscribe to our newsletter.",module,Magento_Customer
-"You have not set a default shipping address.","You have not set a default shipping address.",module,Magento_Customer
+"You have not set a default shipping address.","You have not set a default delivery address.",module,Magento_Customer
 "You have not set a default billing address.","You have not set a default billing address.",module,Magento_Customer
 "Address Book","Address Book",module,Magento_Customer
 "Edit Address","Edit Address",module,Magento_Customer
@@ -1919,7 +1919,7 @@ Download,Download,module,Magento_Customer
 "Bad request.","Bad request.",module,Magento_Customer
 "This confirmation key is invalid or has expired.","This confirmation key is invalid or has expired.",module,Magento_Customer
 "There was an error confirming the account","There was an error confirming the account",module,Magento_Customer
-"If you are a registered VAT customer, please click <a href=""%1"">here</a> to enter your shipping address for proper VAT calculation.","If you are a registered VAT customer, please click <a href=""%1"">here</a> to enter your shipping address for proper VAT calculation.",module,Magento_Customer
+"If you are a registered VAT customer, please click <a href=""%1"">here</a> to enter your shipping address for proper VAT calculation.","If you are a registered VAT customer, please click <a href=""%1"">here</a> to enter your delivery address for proper VAT calculation.",module,Magento_Customer
 "If you are a registered VAT customer, please click <a href=""%1"">here</a> to enter your billing address for proper VAT calculation.","If you are a registered VAT customer, please click <a href=""%1"">here</a> to enter your billing address for proper VAT calculation.",module,Magento_Customer
 "Thank you for registering with %1.","Thank you for registering with %1.",module,Magento_Customer
 "Please check your email for confirmation key.","Please check your email for confirmation key.",module,Magento_Customer
@@ -1930,7 +1930,7 @@ Download,Download,module,Magento_Customer
 "There is already an account with this email address. If you are sure that it is your email address, <a href=""%1"">click here</a> to get your password and access your account.","There is already an account with this email address. If you are sure that it is your email address, <a href=""%1"">click here</a> to get your password and access your account.",module,Magento_Customer
 "We can't save the customer.","We can't save the customer.",module,Magento_Customer
 "Please make sure your passwords match.","Please make sure your passwords match.",module,Magento_Customer
-"If you are a registered VAT customer, please <a href=""%1"">click here</a> to enter your shipping address for proper VAT calculation.","If you are a registered VAT customer, please <a href=""%1"">click here</a> to enter your shipping address for proper VAT calculation.",module,Magento_Customer
+"If you are a registered VAT customer, please <a href=""%1"">click here</a> to enter your shipping address for proper VAT calculation.","If you are a registered VAT customer, please <a href=""%1"">click here</a> to enter your delivery address for proper VAT calculation.",module,Magento_Customer
 "If you are a registered VAT customer, please <a href=""%1"">click here</a> to enter your billing address for proper VAT calculation.","If you are a registered VAT customer, please <a href=""%1"">click here</a> to enter your billing address for proper VAT calculation.",module,Magento_Customer
 "Account Information","Account Information",module,Magento_Customer
 "Invalid input","Invalid input",module,Magento_Customer
@@ -2003,7 +2003,7 @@ Customers,Customers,module,Magento_Customer
 "Please enter the street.","Please enter the street.",module,Magento_Customer
 "Please enter the city.","Please enter the city.",module,Magento_Customer
 "Please enter the phone number.","Please enter the phone number.",module,Magento_Customer
-"Please enter the zip/postal code.","Please enter the zip/postal code.",module,Magento_Customer
+"Please enter the zip/postal code.","Please enter the postcode.",module,Magento_Customer
 "Please enter the country.","Please enter the country.",module,Magento_Customer
 "Please enter the state/province.","Please enter the state/province.",module,Magento_Customer
 """%1"" is a required value.","""%1"" is a required value.",module,Magento_Customer
@@ -2011,7 +2011,7 @@ Global,Global,module,Magento_Customer
 "Per Website","Per Website",module,Magento_Customer
 "We can't share customer accounts globally when the accounts share identical email addresses on more than one website.","We can't share customer accounts globally when the accounts share identical email addresses on more than one website.",module,Magento_Customer
 "Billing Address","Billing Address",module,Magento_Customer
-"Shipping Address","Shipping Address",module,Magento_Customer
+"Shipping Address","Delivery Address",module,Magento_Customer
 "-- Please Select --","-- Please Select --",module,Magento_Customer
 "Please enter a first name.","Please enter a first name.",module,Magento_Customer
 "Please enter a last name.","Please enter a last name.",module,Magento_Customer
@@ -2075,7 +2075,7 @@ Female,Female,module,Magento_Customer
 "Not Specified","Not Specified",module,Magento_Customer
 "Thank you for registering with","Thank you for registering with",module,Magento_Customer
 "enter your billing address for proper VAT calculation","enter your billing address for proper VAT calculation",module,Magento_Customer
-"enter your shipping address for proper VAT calculation","enter your shipping address for proper VAT calculation",module,Magento_Customer
+"enter your shipping address for proper VAT calculation","enter your delivery address for proper VAT calculation",module,Magento_Customer
 message,message,module,Magento_Customer
 NoSuchEntityException,NoSuchEntityException,module,Magento_Customer
 Exception,Exception,module,Magento_Customer
@@ -2108,7 +2108,7 @@ Store,Store,module,Magento_Customer
 "All Store Views","All Store Views",module,Magento_Customer
 Change,Change,module,Magento_Customer
 "Manage Addresses","Manage Addresses",module,Magento_Customer
-"Default Shipping Address","Default Shipping Address",module,Magento_Customer
+"Default Shipping Address","Default Delivery Address",module,Magento_Customer
 "Contact Information","Contact Information",module,Magento_Customer
 "Change Password","Change Password",module,Magento_Customer
 Newsletters,Newsletters,module,Magento_Customer
@@ -2117,8 +2117,8 @@ or,or,module,Magento_Customer
 "Default Addresses","Default Addresses",module,Magento_Customer
 "Change Billing Address","Change Billing Address",module,Magento_Customer
 "You have no default billing address in your address book.","You have no default billing address in your address book.",module,Magento_Customer
-"Change Shipping Address","Change Shipping Address",module,Magento_Customer
-"You have no default shipping address in your address book.","You have no default shipping address in your address book.",module,Magento_Customer
+"Change Shipping Address","Change Delivery Address",module,Magento_Customer
+"You have no default shipping address in your address book.","You have no default delivery address in your address book.",module,Magento_Customer
 "Additional Address Entries","Additional Address Entries",module,Magento_Customer
 "Delete Address","Delete Address",module,Magento_Customer
 "You have no other address entries in your address book.","You have no other address entries in your address book.",module,Magento_Customer
@@ -2131,12 +2131,12 @@ Address,Address,module,Magento_Customer
 "Street Address %1","Street Address %1",module,Magento_Customer
 "VAT Number","VAT Number",module,Magento_Customer
 City,City,module,Magento_Customer
-State/Province,State/Province,module,Magento_Customer
+State/Province,County/Region,module,Magento_Customer
 "Please select a region, state or province.","Please select a region, state or province.",module,Magento_Customer
-"Zip/Postal Code","Zip/Postal Code",module,Magento_Customer
+"Zip/Postal Code","Postcode",module,Magento_Customer
 Country,Country,module,Magento_Customer
 "Use as my default billing address","Use as my default billing address",module,Magento_Customer
-"Use as my default shipping address","Use as my default shipping address",module,Magento_Customer
+"Use as my default shipping address","Use as my default delivery address",module,Magento_Customer
 "Save Address","Save Address",module,Magento_Customer
 "Go back","Go back",module,Magento_Customer
 "Please enter your email below and we will send you the confirmation link.","Please enter your email below and we will send you the confirmation link.",module,Magento_Customer
@@ -2172,7 +2172,7 @@ Name,Name,module,Magento_Customer
 "Format for IDE '%1' is not supported","Format for IDE '%1' is not supported",module,Magento_Developer
 "Client side less compilation","Client side less compilation",module,Magento_Developer
 "Server side less compilation","Server side less compilation",module,Magento_Developer
-"Select this to allow DHL to optimize shipping charges by splitting the order if it exceeds %1 %2.","Select this to allow DHL to optimize shipping charges by splitting the order if it exceeds %1 %2.",module,Magento_Dhl
+"Select this to allow DHL to optimize shipping charges by splitting the order if it exceeds %1 %2.","Select this to allow DHL to optimize delivery charges by splitting the order if it exceeds %1 %2.",module,Magento_Dhl
 "Wrong Content Type","Wrong Content Type",module,Magento_Dhl
 Pounds,Pounds,module,Magento_Dhl
 Kilograms,Kilograms,module,Magento_Dhl
@@ -2212,7 +2212,7 @@ Jetline,Jetline,module,Magento_Dhl
 "The response is in wrong format.","The response is in wrong format.",module,Magento_Dhl
 "Error #%1 : %2","Error #%1 : %2",module,Magento_Dhl
 "We had to skip DHL method %1 because we couldn't find exchange rate %2 (Base Currency).","We had to skip DHL method %1 because we couldn't find exchange rate %2 (Base Currency).",module,Magento_Dhl
-"Zero shipping charge for '%1'","Zero shipping charge for '%1'",module,Magento_Dhl
+"Zero shipping charge for '%1'","Zero delivery charge for '%1'",module,Magento_Dhl
 DHL,DHL,module,Magento_Dhl
 "Cannot identify measure unit for %1","Cannot identify measure unit for %1",module,Magento_Dhl
 "Cannot identify weight unit for %1","Cannot identify weight unit for %1",module,Magento_Dhl
@@ -2225,10 +2225,10 @@ Documents,Documents,module,Magento_Dhl
 "Unable to retrieve tracking","Unable to retrieve tracking",module,Magento_Dhl
 "Response is in the wrong format","Response is in the wrong format",module,Magento_Dhl
 "No packages for request","No packages for request",module,Magento_Dhl
-"Unable to retrieve shipping label","Unable to retrieve shipping label",module,Magento_Dhl
+"Unable to retrieve shipping label","Unable to retrieve delivery label",module,Magento_Dhl
 "Non documents","Non documents",module,Magento_Dhl
 None,None,module,Magento_Dhl
-State/Province,State/Province,module,Magento_Directory
+State/Province,County/Region,module,Magento_Directory
 "--Please Select--","--Please Select--",module,Magento_Directory
 lbs,lbs,module,Magento_Directory
 kgs,kgs,module,Magento_Directory
@@ -2540,8 +2540,8 @@ Unknown,Unknown,module,Magento_Email
 "Store Phone Number","Store Phone Number",module,Magento_Email
 "Store Hours","Store Hours",module,Magento_Email
 Country,Country,module,Magento_Email
-Region/State,Region/State,module,Magento_Email
-"Zip/Postal Code","Zip/Postal Code",module,Magento_Email
+Region/State,County/Region,module,Magento_Email
+"Zip/Postal Code","Postcode",module,Magento_Email
 City,City,module,Magento_Email
 "Street Address 1","Street Address 1",module,Magento_Email
 "Street Address 2","Street Address 2",module,Magento_Email
@@ -3007,11 +3007,11 @@ Total,Total,module,Magento_Multishipping
 Product,Product,module,Magento_Multishipping
 Qty,Qty,module,Magento_Multishipping
 "Send To","Send To",module,Magento_Multishipping
-"A shipping selection is not applicable.","A shipping selection is not applicable.",module,Magento_Multishipping
+"A shipping selection is not applicable.","A delivery selection is not applicable.",module,Magento_Multishipping
 Actions,Actions,module,Magento_Multishipping
 "Remove Item","Remove Item",module,Magento_Multishipping
 "Remove item","Remove item",module,Magento_Multishipping
-"Go to Shipping Information","Go to Delivery Information",module,Magento_Multishipping
+"Go to Shipping Information","Go to Delivery Information",module,Magento_Multidelivery
 "Update Qty &amp; Addresses","Update Qty &amp; Addresses",module,Magento_Multishipping
 "Enter a New Address","Enter a New Address",module,Magento_Multishipping
 "Back to Shopping Cart","Back to Shopping Cart",module,Magento_Multishipping
@@ -3161,7 +3161,7 @@ Subscribe,Subscribe,module,Magento_Newsletter
 "Make Check payable to","Make Check payable to",module,Magento_OfflinePayments
 "Send Check to","Send Check to",module,Magento_OfflinePayments
 Country,Country,module,Magento_OfflineShipping
-Region/State,Region/State,module,Magento_OfflineShipping
+Region/State,County/Region,module,Magento_OfflineShipping
 "Zip/Postal Code","Postcode",module,Magento_OfflineShipping
 "Shipping Price","Delivery Price",module,Magento_OfflineShipping
 "Export CSV","Export CSV",module,Magento_OfflineShipping
@@ -3182,10 +3182,10 @@ None,None,module,Magento_OfflineShipping
 "We couldn't import this file because of these errors: %1","We couldn't import this file because of these errors: %1",module,Magento_OfflineShipping
 "Please correct Table Rates format in the Row #%1.","Please correct Table Rates format in the Row #%1.",module,Magento_OfflineShipping
 "Please correct Country ""%1"" in the Row #%2.","Please correct Country ""%1"" in the Row #%2.",module,Magento_OfflineShipping
-"Please correct Region/State ""%1"" in the Row #%2.","Please correct Region/State ""%1"" in the Row #%2.",module,Magento_OfflineShipping
+"Please correct Region/State ""%1"" in the Row #%2.","Please correct County/Region ""%1"" in the Row #%2.",module,Magento_OfflineShipping
 "Please correct %1 ""%2"" in the Row #%3.","Please correct %1 ""%2"" in the Row #%3.",module,Magento_OfflineShipping
 "Please correct Shipping Price ""%1"" in the Row #%2.","Please correct Delivery Price ""%1"" in the Row #%2.",module,Magento_OfflineShipping
-"Duplicate Row #%1 (Country ""%2"", Region/State ""%3"", Zip ""%4"" and Value ""%5"")","Duplicate Row #%1 (Country ""%2"", Region/State ""%3"", Zip ""%4"" and Value ""%5"")",module,Magento_OfflineShipping
+"Duplicate Row #%1 (Country ""%2"", Region/State ""%3"", Zip ""%4"" and Value ""%5"")","Duplicate Row #%1 (Country ""%2"", County/Region ""%3"", Zip ""%4"" and Value ""%5"")",module,Magento_OfflineShipping
 "Free Shipping","Free Delivery",module,Magento_OfflineShipping
 No,No,module,Magento_OfflineShipping
 "For matching items only","For matching items only",module,Magento_OfflineShipping
@@ -4198,7 +4198,7 @@ Subtotal,Subtotal,module,Magento_SalesRule
 "Shipping Method","Shipping Method",module,Magento_SalesRule
 "Shipping Postcode","Shipping Postcode",module,Magento_SalesRule
 "Shipping Region","Shipping Region",module,Magento_SalesRule
-"Shipping State/Province","Shipping State/Province",module,Magento_SalesRule
+"Shipping State/Province","Shipping County/Region",module,Magento_SalesRule
 "Shipping Country","Shipping Country",module,Magento_SalesRule
 "Product attribute combination","Product attribute combination",module,Magento_SalesRule
 "Products subselection","Products subselection",module,Magento_SalesRule
@@ -4537,7 +4537,7 @@ Guest,Guest,module,Magento_Sales
 "Please enter the street.","Please enter the street.",module,Magento_Sales
 "Please enter the city.","Please enter the city.",module,Magento_Sales
 "Please enter the phone number.","Please enter the phone number.",module,Magento_Sales
-"Please enter the zip/postal code.","Please enter the zip/postal code.",module,Magento_Sales
+"Please enter the zip/postal code.","Please enter the postcode.",module,Magento_Sales
 "Please enter the country.","Please enter the country.",module,Magento_Sales
 "Please enter the state/province.","Please enter the state/province.",module,Magento_Sales
 "Requested entity doesn't exist","Requested entity doesn't exist",module,Magento_Sales
@@ -4648,10 +4648,10 @@ Country,Country,module,Magento_Sales
 Email,Email,module,Magento_Sales
 "First Name","First Name",module,Magento_Sales
 "Last Name","Last Name",module,Magento_Sales
-State/Province,State/Province,module,Magento_Sales
+State/Province,County/Region,module,Magento_Sales
 "Street Address","Street Address",module,Magento_Sales
 "Phone Number","Phone Number",module,Magento_Sales
-"Zip/Postal Code","Zip/Postal Code",module,Magento_Sales
+"Zip/Postal Code","Postcode",module,Magento_Sales
 "We can\'t save the address:\n%1","We can\'t save the address:\n%1",module,Magento_Sales
 "Cannot save comment:
 %1","Cannot save comment:
@@ -4823,8 +4823,8 @@ Items,Items,module,Magento_Sales
 "Tracking Number","Tracking Number",module,Magento_Sales
 "Billing Last Name","Billing Last Name",module,Magento_Sales
 "Find Order By","Find Order By",module,Magento_Sales
-"ZIP Code","ZIP Code",module,Magento_Sales
-"Billing ZIP Code","Billing ZIP Code",module,Magento_Sales
+"ZIP Code","Postcode",module,Magento_Sales
+"Billing ZIP Code","Billing Postcode",module,Magento_Sales
 Continue,Continue,module,Magento_Sales
 "Print All Refunds","Print All Refunds",module,Magento_Sales
 "Refund #","Refund #",module,Magento_Sales
@@ -4975,7 +4975,7 @@ Shipments,Shipments,module,Magento_Shipping
 "Tracking Information","Tracking Information",module,Magento_Shipping
 "Sorry, but we can't deliver to the destination country with this shipping module.","Sorry, but we can't deliver to the destination country with this shipping module.",module,Magento_Shipping
 "The shipping module is not available.","The shipping module is not available.",module,Magento_Shipping
-"This shipping method is not available. Please specify the zip code.","This shipping method is not available. Please specify the zip code.",module,Magento_Shipping
+"This shipping method is not available. Please specify the zip code.","This shipping method is not available. Please specify the postcode.",module,Magento_Shipping
 "No packages for request","No packages for request",module,Magento_Shipping
 "Security validation of XML document has been failed.","Security validation of XML document has been failed.",module,Magento_Shipping
 "All Allowed Countries","All Allowed Countries",module,Magento_Shipping
@@ -5178,7 +5178,7 @@ Options,Options,module,Magento_Swatches
 "Create New Value","Create New Value",module,Magento_Swatches
 Code,Code,module,Magento_TaxImportExport
 Country,Country,module,Magento_TaxImportExport
-State,State,module,Magento_TaxImportExport
+State,County,module,Magento_TaxImportExport
 "Zip/Post Code","Zip/Post Code",module,Magento_TaxImportExport
 Rate,Rate,module,Magento_TaxImportExport
 "Zip/Post is Range","Zip/Post is Range",module,Magento_TaxImportExport
@@ -5200,7 +5200,7 @@ Rate,Rate,module,Magento_TaxImportExport
 "'*' - matches any; 'xyz*' - matches any that begins on 'xyz' and are not longer than %1.","'*' - matches any; 'xyz*' - matches any that begins on 'xyz' and are not longer than %1.",module,Magento_Tax
 "Range From","Range From",module,Magento_Tax
 "Range To","Range To",module,Magento_Tax
-State,State,module,Magento_Tax
+State,County,module,Magento_Tax
 Country,Country,module,Magento_Tax
 "Rate Percent","Rate Percent",module,Magento_Tax
 "Tax Titles","Tax Titles",module,Magento_Tax
@@ -6257,8 +6257,8 @@ Ok,Ok,module,Magento_Sales
 "Please use only letters (a-z or A-Z) or numbers (0-9) in this field. No spaces or other characters are allowed.","Please use only letters (a-z or A-Z) or numbers (0-9) in this field. No spaces or other characters are allowed.",module,Magento_Ui
 "Please enter a valid date.","Please enter a valid date.",module,Magento_Ui
 "Please enter a valid URL Key (Ex: ""example-page"", ""example-page.html"" or ""anotherlevel/example-page"").","Please enter a valid URL Key (Ex: ""example-page"", ""example-page.html"" or ""anotherlevel/example-page"").",module,Magento_Ui
-"Please enter a valid zip code.","Please enter a valid zip code.",module,Magento_Ui
-"Please select State/Province.","Please select State/Province.",module,Magento_Ui
+"Please enter a valid zip code.","Please enter a valid postcode.",module,Magento_Ui
+"Please select State/Province.","Please select County/Region.",module,Magento_Ui
 "Please enter issue number or start date for switch/solo card type.","Please enter issue number or start date for switch/solo card type.",module,Magento_Ui
 "This is a required field.","This is a required field.",module,Magento_Ui
 "Please enter positive number in this field.","Please enter positive number in this field.",module,Magento_Ui
@@ -6363,8 +6363,8 @@ Locale,Locale,module,Magento_Backend
 "Store Phone Number","Store Phone Number",module,Magento_Backend
 "Store Hours of Operation","Store Hours of Operation",module,Magento_Backend
 Country,Country,module,Magento_Backend
-Region/State,Region/State,module,Magento_Backend
-"ZIP/Postal Code","ZIP/Postal Code",module,Magento_Backend
+Region/State,County/Region,module,Magento_Backend
+"ZIP/Postal Code","Postcode",module,Magento_Backend
 City,City,module,Magento_Backend
 "Street Address","Street Address",module,Magento_Backend
 "Street Address Line 2","Street Address Line 2",module,Magento_Backend
@@ -6940,7 +6940,7 @@ Frequency,Frequency,module,Magento_Directory
 Service,Service,module,Magento_Directory
 "Start Time","Start Time",module,Magento_Directory
 "Installed Currencies","Installed Currencies",module,Magento_Directory
-"Zip/Postal Code is Optional for","Zip/Postal Code is Optional for",module,Magento_Directory
+"Zip/Postal Code is Optional for","Postcode is Optional for",module,Magento_Directory
 "State Options","State Options",module,Magento_Directory
 "State is Required for","State is Required for",module,Magento_Directory
 "Allow to Choose State if It is Optional for Country","Allow to Choose State if It is Optional for Country",module,Magento_Directory
@@ -7608,7 +7608,7 @@ Template,Template,module,Magento_Sales
 "Default Template","Default Template",module,Magento_Sales
 Name,Name,module,Magento_Sales
 Phone,Phone,module,Magento_Sales
-"ZIP/Post Code","ZIP/Post Code",module,Magento_Sales
+"ZIP/Post Code","Postcode",module,Magento_Sales
 "Signed-up Point","Signed-up Point",module,Magento_Sales
 Website,Website,module,Magento_Sales
 order-header,order-header,module,Magento_Sales
@@ -7662,8 +7662,8 @@ Enabled,Enabled,module,Magento_SendFriend
 "Shipping Settings","Shipping Settings",module,Magento_Shipping
 Origin,Origin,module,Magento_Shipping
 Country,Country,module,Magento_Shipping
-Region/State,Region/State,module,Magento_Shipping
-"ZIP/Postal Code","ZIP/Postal Code",module,Magento_Shipping
+Region/State,County/Region,module,Magento_Shipping
+"ZIP/Postal Code","Postcode",module,Magento_Shipping
 City,City,module,Magento_Shipping
 "Street Address","Street Address",module,Magento_Shipping
 "Street Address Line 2","Street Address Line 2",module,Magento_Shipping
@@ -7742,7 +7742,7 @@ CSV,CSV,module,Magento_TaxImportExport
 "Display Full Tax Summary","Display Full Tax Summary",module,Magento_Tax
 "Display Zero Tax Subtotal","Display Zero Tax Subtotal",module,Magento_Tax
 "Orders, Invoices, Credit Memos Display Settings","Orders, Invoices, Credit Memos Display Settings",module,Magento_Tax
-State/Region,State/Region,module,Magento_Tax
+State/Region,County/Region,module,Magento_Tax
 Rate,Rate,module,Magento_Tax
 "Subtotal Only","Subtotal Only",module,Magento_Tax
 "(Excl. Tax)","(Excl. Tax)",module,Magento_Tax

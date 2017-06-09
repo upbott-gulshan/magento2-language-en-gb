@@ -40,7 +40,7 @@ Close,Close
 "You will be redirected to the PayPal website when you place an order.","You will be redirected to the PayPal website when you place an order."
 "Incl. Tax","Incl. Tax"
 "Billing Information","Billing Information"
-"Shipping Information","Shipping Information"
+"Shipping Information","Delivery Information"
 "Invalid block type","Invalid block type"
 "Please specify the correct billing agreement ID and try again.","Please specify the correct billing agreement ID and try again."
 "You canceled the billing agreement.","You canceled the billing agreement."
@@ -68,7 +68,7 @@ Sales,Sales
 "We can't place the order.","We can't place the order."
 "We can't process Express Checkout approval.","We can't process Express Checkout approval."
 "We can't initialize Express Checkout review.","We can't initialize Express Checkout review."
-"We can't update shipping method.","We can't update shipping method."
+"We can't update shipping method.","We can't update delivery method."
 "We can't start Express Checkout.","We can't start Express Checkout."
 "To check out, please sign in with your email address.","To check out, please sign in with your email address."
 "Sorry, but something went wrong","Sorry, but something went wrong"
@@ -83,7 +83,7 @@ Sales,Sales
 "The PayPal gateway rejected the request. %1","The PayPal gateway rejected the request. %1"
 "I'm sorry - but we were not able to process your payment. Please try another payment method or contact us so we can assist you.","I'm sorry - but we were not able to process your payment. Please try another payment method or contact us so we can assist you."
 "I'm sorry - but we are not able to complete your transaction. Please contact us so we can assist you.","I'm sorry - but we are not able to complete your transaction. Please contact us so we can assist you."
-"A match of the Shipping Address City, State, and Postal Code failed.","A match of the Shipping Address City, State, and Postal Code failed."
+"A match of the Shipping Address City, State, and Postal Code failed.","A match of the Delivery Address City, State, and Postal Code failed."
 "The payment method code is not set.","The payment method code is not set."
 "The reference ID is not set.","The reference ID is not set."
 "Unable to save Billing Agreement:","Unable to save Billing Agreement:"
@@ -381,11 +381,11 @@ View,View
 Create...,Create...
 "Your credit card will be charged for","Your credit card will be charged for"
 "Your billing agreement # is: ","Your billing agreement # is: "
-"Shipping Method","Shipping Method"
-"Please select a shipping method...","Please select a shipping method..."
-"Update Shipping Method","Update Shipping Method"
+"Shipping Method","Delivery Method"
+"Please select a shipping method...","Please select a delivery method..."
+"Update Shipping Method","Update Delivery Method"
 "Sorry, no quotes are available for this order right now.","Sorry, no quotes are available for this order right now."
-"Shipping Address","Shipping Address"
+"Shipping Address","Delivery Address"
 Edit,Edit
 "Buy now with PayPal","Buy now with PayPal"
 "Edit Payment Information","Edit Payment Information"
@@ -397,7 +397,7 @@ Item,Item
 Price,Price
 Qty,Qty
 Subtotal,Subtotal
-"Please update order data to get shipping methods and rates","Please update order data to get shipping methods and rates"
+"Please update order data to get shipping methods and rates","Please update order data to get delivery methods and rates"
 or,or
 "Checkout with PayPal","Checkout with PayPal"
 "Please do not refresh the page until you complete payment.","Please do not refresh the page until you complete payment."
@@ -520,7 +520,7 @@ Title,Title
 "Debug Mode","Debug Mode"
 "Enable SSL verification","Enable SSL verification"
 "Transfer Cart Line Items","Transfer Basket Line Items"
-"Transfer Shipping Options","Transfer Shipping Options"
+"Transfer Shipping Options","Transfer Delivery Options"
 "If this option is enabled, customer can change shipping address and shipping method on PayPal website. In live mode works via HTTPS protocol only.","If this option is enabled, customer can change shipping address and shipping method on PayPal website. In live mode works via HTTPS protocol only."
 "Notice that PayPal can handle up to 10 shipping options. That is why Magento will transfer only first 10 cheapest shipping options if there are more than 10 available.","Notice that PayPal can handle up to 10 shipping options. That is why Magento will transfer only first 10 cheapest shipping options if there are more than 10 available."
 "Shortcut Buttons Flavor","Shortcut Buttons Flavor"
