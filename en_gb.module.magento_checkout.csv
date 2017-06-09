@@ -59,3 +59,5 @@
 "Province","Region",module,Magento_Checkout
 "Zip/Postal Code","Postcode",module,Magento_Checkout
 "Zip","Postcode",module,Magento_Checkout
+"Enter your billing address to get a tax estimate.","Enter your billing address to get a VAT estimate."
+"Enter your destination to get a shipping estimate.","Enter your destination to get a delivery estimate."
