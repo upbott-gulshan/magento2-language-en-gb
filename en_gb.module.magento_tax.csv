@@ -48,7 +48,7 @@
 "Manage Tax Rates","Manage VAT Rates",module,Magento_Tax
 "Manage Tax Rules","Manage VAT Rules",module,Magento_Tax
 "'*' - matches any; 'xyz*' - matches any that begins on 'xyz' and are not longer than %1.","'*' - correspond à tout; 'xyz*' - correspond à ce qui commence par 'xyz' et qui ne fait pas plus de %1 caractères.",module,Magento_Tax
-"Maximum zip code length is 9.","Maximum post code length is 9.",module,Magento_Tax
+"Maximum zip code length is 9.","Maximum postcode length is 9.",module,Magento_Tax
 "New Tax Rate","New VAT Rate",module,Magento_Tax
 "New Tax Rule","New VAT Rule",module,Magento_Tax
 "No (price without tax)","No (price without VAT)",module,Magento_Tax

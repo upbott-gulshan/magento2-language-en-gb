@@ -45,7 +45,7 @@
 "the shipment email was sent","the delivery email was sent",module,Magento_Shipping
 "The shipment has been created.","The delivery has been created.",module,Magento_Shipping
 "The shipping module is not available.","The delivery module is not available.",module,Magento_Shipping
-"This shipping method is not available. Please specify the zip code.","This delivery method is not available. Please specify the post code.",module,Magento_Shipping
+"This shipping method is not available. Please specify the zip code.","This delivery method is not available. Please specify the postcode.",module,Magento_Shipping
 "Total Shipping Charges","Total Delivery Charges",module,Magento_Shipping
 "Track this shipment","Track this delivery",module,Magento_Shipping
 "We can't initialize shipment for adding tracking number.","We can't initialize delivery for adding tracking number.",module,Magento_Shipping
@@ -56,4 +56,4 @@
 "You are trying to add a quantity for some products that doesn't match the quantity that was shipped.","You are trying to add a quantity for some products that doesn't match the quantity that was dispatched.",module,Magento_Shipping
 "You created the shipping label.","You created the delivery label.",module,Magento_Shipping
 "You sent the shipment.","You sent the delivery.",module,Magento_Shipping
-"ZIP/Postal Code","Post Code",module,Magento_Shipping
+"ZIP/Postal Code","Postcode",module,Magento_Shipping

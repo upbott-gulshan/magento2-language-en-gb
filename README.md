@@ -1,6 +1,6 @@
 # Links
 
-* Website: https://github.com/bnspayments/magento2-language-en-gb
+* Website: https://github.com/cubewebsites/magento2-language-en-gb
 
 # Installation
 
@@ -8,7 +8,7 @@
 
 ```
 cd <your magento path>
-composer require bns/magento2-language-en-gb:*
+composer require cubewebsites/magento2-language-en-gb:*
 php bin/magento cache:clean
 ```
 
@@ -16,16 +16,16 @@ To update package
 
 ```
 cd <your magento path>
-composer update bns/magento2-language-en-gb
+composer update cubewebsites/magento2-language-en-gb
 php bin/magento cache:clean
 ```
 
 ## Download repository method
 
-Download file: https://github.com/bns/magento2-language-en-gb/archive/master.zip
+Download file: https://github.com/cubewebsites/magento2-language-en-gb/archive/master.zip
 
 ```
 cd <your magento path>
-Create folder your-magento-path/app/i18n/bns/en_gb and extract zip into path.
+Create folder your-magento-path/app/i18n/cubewebsites/en_gb and extract zip into path.
 php bin/magento cache:clean
 ```

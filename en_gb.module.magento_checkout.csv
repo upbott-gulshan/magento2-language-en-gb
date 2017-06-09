@@ -57,5 +57,5 @@
 "State/Province","County/Region",module,Magento_Checkout
 "State","County",module,Magento_Checkout
 "Province","Region",module,Magento_Checkout
-"Zip/Postal Code","Post Code",module,Magento_Checkout
-"Zip","Post Code",module,Magento_Checkout
+"Zip/Postal Code","Postcode",module,Magento_Checkout
+"Zip","Postcode",module,Magento_Checkout
