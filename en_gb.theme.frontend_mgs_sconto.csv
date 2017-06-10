@@ -1,4 +1,4 @@
-"Have no posts.","Have no posts."
+"Have no posts.","No posts available."
 %1,%1
 "Read More","Read More"
 "%1 Comment(s)","%1 Comment(s)"
@@ -47,7 +47,7 @@ product,product
 Search,Search
 "Reset Filter","Reset Filter"
 "No Brand to show","No Brands to show"
-"No brand to show. Please check config your widget","No brand to show. Please check config your widget"
+"No brand to show. Please check config your widget","No brand to show. Please check configuration of your widget"
 "No deal product to show","No deal product to show"
 "No Product to Show","No Product to Show"
 "No product to show","No product to show"
@@ -122,7 +122,7 @@ Rating,Rating
 "Remove Product","Remove Product"
 "Print This Page","Print This Page"
 "Print Table Compare","Print Table Compare"
-"RELATED PRODUCTS","RELATED PRODUCTS"
+"RELATED PRODUCTS","Related Products"
 "Add to wishlist","Add to wishlist"
 "You have no items to compare.","You have no items to compare."
 "Compare Products","Compare Products"
@@ -174,7 +174,7 @@ Remove,Remove
 Loading...,Loading...
 "Enter your name","Enter your name"
 "Enter your Email *","Enter your Email *"
-"Enter your Number phone","Enter your Number phone"
+"Enter your Number phone","Enter your phone number"
 "Phone Number","Phone Number"
 "What’s on your mind?","What’s on your mind?"
 "You must enable and config your google map.","You must enable and config your google map."
@@ -190,7 +190,7 @@ Change,Change
 "Change Password","Change Password"
 Newsletters,Newsletters
 "You subscribe to ""General Subscription"".","You subscribe to ""General Subscription""."
-"You don't subscribe to our newsletter.","You don't subscribe to our newsletter."
+"You don't subscribe to our newsletter.","You aren't subscribed to our newsletter."
 "My Account","My Account"
 "You have no default billing address in your address book.","You have no default billing address in your address book."
 "You have no default shipping address in your address book.","You have no default delivery address in your address book."
@@ -401,7 +401,7 @@ Cancel,Cancel
 Checkout,Checkout
 "Total: ","Total: "
 "You can track your order status by creating an account.","You can track your order status by creating an account."
-"A letter with further instructions will be sent to your email.","A letter with further instructions will be sent to your email."
+"A letter with further instructions will be sent to your email.","An email with further instructions will be sent to your email address."
 "Ship Here","Deliver Here"
 "Ship To:","Deliver To:"
 "Shipping Method:","Delivery Method:"
