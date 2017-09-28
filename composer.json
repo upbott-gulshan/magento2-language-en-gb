@@ -1,7 +1,7 @@
 {
     "name": "cubewebsites/magento2-language-en-gb",
     "description": "Magento2 British Language Pack (en_GB)",
-    "version": "100.2.0",
+    "version": "101.0.0",
     "type": "magento2-language",
     "homepage": "https://cubewebsites.com",
     "keywords": [
@@ -14,7 +14,7 @@
         "MIT"
     ],
     "require": {
-        "magento/framework": "100.*"
+        "magento/framework": "101.*"
     },
     "autoload": {
         "files": [
