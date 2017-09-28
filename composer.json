@@ -14,7 +14,7 @@
         "MIT"
     ],
     "require": {
-        "magento/framework": "2.2.*"
+        "magento/framework": "100.2.*"
     },
     "autoload": {
         "files": [
